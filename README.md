@@ -13,6 +13,8 @@ To assure accuracy, this data is then cleansed and standardized. Technical indic
 One selects a suitable machine learning model, such as decision trees or linear regression. The prototype
 
 Applications of Machine Learning for Predicting Stock Market Prices in the Real World:
+
+
 1.Trading Algorithms
 Algorithmic trading has been significantly impacted by machine learning. Trades are made by automatic algorithms based on pre-established criteria in algorithmic trading. These algorithms make speedy decisions to maximize earnings and minimize risks by analyzing market conditions in real time.
 
